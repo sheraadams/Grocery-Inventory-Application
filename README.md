@@ -5,4 +5,4 @@ This project reads a file called “CS210_Project_Three_Input_File.txt” that c
 
 The program first reads the input file and creates a .dat file that lists the unique items and their occurrences. The menu option allows the user to print a histogram, look an item by name, or print a list of all items and their count in an inventory style list.  
 
-![grocery](https://user-images.githubusercontent.com/110789514/210664798-6c1d22e9-ea7a-49ba-a267-c4e79da916b9.png)
+![Screenshot 2023-01-06 061452](https://user-images.githubusercontent.com/110789514/211001645-6cedeab8-213a-47d2-a351-5efef866947f.png)
